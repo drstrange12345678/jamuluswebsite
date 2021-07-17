@@ -1,0 +1,37 @@
+---
+layout: post
+title: "DND Feature"
+lang: "en"
+author: "drstrange"
+heading: "Heading"
+---
+Hi
+
+Is it possible to have a DND (Do not disturb" feature??
+
+Reason why:
+If we are playing rehersal, all members of the band have fast equipment 
+and use the same Jamulus client version (3.8.0). So we are able to 
+lower the latency to around 20ms which is very fine. We are all here nearby 
+located in south Germany.
+
+But if another intruder meets us in our session, we found, that very often 
+this guy is from "another planet" or another part of the earth and so his 
+latency is higher (sometimes nwe have 40 until 60ms, what can be recognized.
+And he is not familiar with our songs.
+So if we stream our songs for a virual concert, we should have miminal latency
+and all members of the session should have fast equipment and the same version 
+of jamulus. Only in this case a acceptable latency is reachable.
+And the songs should be good played due to everybodys home rehersal.
+So give us a possibility to make a DND feature to forbit during the stream session
+that another user disturbes and makes the latency bad. Please.
+We are not against visitors during rehersal but we want to "lock the door" to the 
+virual room for making recordings for our fans e.g. in youtube or other streaming
+environments. May be as an closed usergroup or with an password for the room 
+which can be activated by the master of the meeting in his server? Please, 
+I know, its really a hard job but may be its possible to implement this feature?
+Or is there already a possibility to do so but I do not know it?
+
+Best Regards 
+drstrange 
+(Boris Gerlach Germany)
